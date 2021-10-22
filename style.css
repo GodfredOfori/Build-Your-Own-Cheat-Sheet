@@ -1,0 +1,77 @@
+
+
+body {   
+    color-scheme: lightcyan; 
+    font-family: 'Trebuchet MS', 'Lucida Sans'
+}
+
+header {
+    text-align: center;
+}
+
+.table {
+    font-family: monospace;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.table-head {
+    font-family: monospace;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.table-body {
+    font-family: monospace;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.table-row {
+    font-family: monospace;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.attribute-table {
+    margin-top: 100px;
+    text-align: center;
+    text-align: center;
+    margin-left: 350px;
+}
+
+.table-data {
+    font-family: monospace;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.table-footer {
+    font-family: monospace;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.column-span {
+    font-family: monospace;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.row-span {
+    font-family: monospace;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.html-table {
+    margin-left: 150px;
+}
